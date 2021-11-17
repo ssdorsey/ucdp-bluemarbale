@@ -1,6 +1,6 @@
 # Mapping conflict 
 
-Code and sample video for mapping the UCDP GED conflict data onto the NASA blue marble images. 
+Code and sample video for mapping the UCDP GED conflict data onto the NASA blue marble images. Click on the image below to view the video.
 
 [![UCDP GED time series](https://img.youtube.com/vi/-k6o3E1RLHs/0.jpg)](https://www.youtube.com/watch?v=-k6o3E1RLHs)
 
